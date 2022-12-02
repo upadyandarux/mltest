@@ -1,0 +1,5 @@
+,Variables,Unit,Dimension Variable ,Dimension Value
+0,time,time,['time'],[30684]
+1,swh,swh,"['time', 'latitude', 'longitude']","[30684, 29, 21]"
+2,longitude,degrees_east,['longitude'],[21]
+3,latitude,degrees_north,['latitude'],[29]

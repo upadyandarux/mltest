@@ -1,0 +1,4 @@
+Variable,Minimum Value,Maximum Value,Resolution
+Longitude,102.0,112.0,0.25degree
+Latitude,-5.0,9.0,0.25degree
+Time,2000-01-01 00:00:00,2020-12-31 18:00:00,6 hour

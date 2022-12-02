@@ -1,0 +1,6 @@
+,Variables,Unit,Dimension Variable ,Dimension Value
+0,time,time,['time'],[30684]
+1,u10,u10,"['time', 'latitude', 'longitude']","[30684, 57, 41]"
+2,v10,v10,"['time', 'latitude', 'longitude']","[30684, 57, 41]"
+3,longitude,degrees_east,['longitude'],[41]
+4,latitude,degrees_north,['latitude'],[57]
